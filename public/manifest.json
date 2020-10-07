@@ -1,0 +1,21 @@
+{
+  "name": "Zakazane słowa",
+  "short_name": "Zakazane słowa",
+  "icons": [
+    {
+      "src": "./img/icons/logo2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/logo2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./",
+  "display": "standalone",
+  "theme_color": "#FFCA01",
+  "background_color": "#FFCA01"
+ 
+}

@@ -1,0 +1,1424 @@
+﻿[
+	{
+		"1": "Wojsko",
+		"2": "Przepustka",
+		"3": "Ucieczka",
+		"4": "Zespół",
+		"5": "Pozwolenie",
+		"6": "Uciekinier\r",
+		"main": "Dezerter"
+	},
+	{
+		"1": "Wyszywać",
+		"2": "Serweta",
+		"3": "Koniaków",
+		"4": "Magazyn",
+		"5": "Kanwa",
+		"6": "Szyć\r",
+		"main": "Hafty polskie"
+	},
+	{
+		"1": "Buli",
+		"2": "Zima",
+		"3": "Kule",
+		"4": "Śnieg",
+		"5": "Lepić",
+		"6": "Olaf\r",
+		"main": "Bałwanek"
+	},
+	{
+		"1": "Naczynia",
+		"2": "Brudny",
+		"3": "Restauracja",
+		"4": "Gąbka",
+		"5": "Płyn",
+		"6": "Wycierać\r",
+		"main": "Zmywak"
+	},
+	{
+		"1": "Lody",
+		"2": "Kielich",
+		"3": "Nagroda",
+		"4": "Trofeum",
+		"5": "Pić",
+		"6": "Lodziarnia\r",
+		"main": "Puchar"
+	},
+	{
+		"1": "Upominek",
+		"2": "Dziecko",
+		"3": "Urodziny",
+		"4": "Święta",
+		"5": "Podarunek",
+		"6": "Nagroda\r",
+		"main": "Prezent"
+	},
+	{
+		"1": "Wykaz",
+		"2": "Telefon",
+		"3": "Rachunek",
+		"4": "Spis",
+		"5": "Wyciąg",
+		"6": "Rozmowa\r",
+		"main": "Biling"
+	},
+	{
+		"1": "Warzywo",
+		"2": "Czerwona",
+		"3": "Chili",
+		"4": "Pestka",
+		"5": "Ostra",
+		"6": "Żółta\r",
+		"main": "Papryka"
+	},
+	{
+		"1": "Grecja",
+		"2": "Herkules",
+		"3": "Parandowski",
+		"4": "Rzym",
+		"5": "Pandora",
+		"6": "Prometeusz\r",
+		"main": "Mit"
+	},
+	{
+		"1": "Głosowanie",
+		"2": "Urna",
+		"3": "Demokracja",
+		"4": "Kaczyński",
+		"5": "Fałszować",
+		"6": "Komisja\r",
+		"main": "Wybory prezydenckie"
+	},
+	{
+		"1": "Monety",
+		"2": "Seria",
+		"3": "Kolekcjoner",
+		"4": "Album",
+		"5": "Znaczki",
+		"6": "Figury\r",
+		"main": "Kolekcja"
+	},
+	{
+		"1": "Rozprawa",
+		"2": "Wina",
+		"3": "Małżeństwo",
+		"4": "Ślub",
+		"5": "Podział Majątku",
+		"6": "Intercyza\r",
+		"main": "Rozwód"
+	},
+	{
+		"1": "Okrągła",
+		"2": "Ślub",
+		"3": "Data",
+		"4": "Święto",
+		"5": "Tradycja",
+		"6": "Urodziny\r",
+		"main": "Rocznica"
+	},
+	{
+		"1": "Ubrania",
+		"2": "Dziecko",
+		"3": "Berbeć",
+		"4": "Sklep ",
+		"5": "Mały",
+		"6": "Zakupy\r",
+		"main": "Smyk"
+	},
+	{
+		"1": "Palić",
+		"2": "Trzej Królowie",
+		"3": "Zapach",
+		"4": "Mirra",
+		"5": "Złoto",
+		"6": "6 stycznia\r",
+		"main": "Kadzidło"
+	},
+	{
+		"1": "Posterunek",
+		"2": "Budynek",
+		"3": "Obrzeża",
+		"4": "Miasto",
+		"5": "Przejazd kolejowy",
+		"6": "Szlaban\r",
+		"main": "Rogatka"
+	},
+	{
+		"1": "Niewolnictwo",
+		"2": "Chłop",
+		"3": "Średniowiecze",
+		"4": "Wasal",
+		"5": "Dzierżawa",
+		"6": "Pienądze\r",
+		"main": "Pańszczyzna"
+	},
+	{
+		"1": "Interes",
+		"2": "Korzyść",
+		"3": "Egoizm",
+		"4": "Spryt",
+		"5": "Zysk",
+		"6": "Zachowanie\r",
+		"main": "Wyrachowany"
+	},
+	{
+		"1": "samochód",
+		"2": "Pantera",
+		"3": "Kot",
+		"4": "Zwierzę",
+		"5": "Model auta",
+		"6": "motoryzacja\r",
+		"main": "Jaguar"
+	},
+	{
+		"1": "Małpa",
+		"2": "Człekokształtne",
+		"3": "Ssak",
+		"4": "Banan",
+		"5": "Zoo",
+		"6": "Skakać\r",
+		"main": "Orangutan"
+	},
+	{
+		"1": "granice",
+		"2": "Rosja",
+		"3": "Prusy",
+		"4": "Aneks",
+		"5": 1772,
+		"6": "wojna\r",
+		"main": "Rozbiór Polski"
+	},
+	{
+		"1": "Najszybszy",
+		"2": "Dziki",
+		"3": "Centki",
+		"4": "Ssak",
+		"5": "Kot",
+		"6": "Zwierzę\r",
+		"main": "Gepard"
+	},
+	{
+		"1": "Adidasy",
+		"2": "Buty",
+		"3": "Sala gimnastyczna",
+		"4": "Trampki",
+		"5": "Piłka",
+		"6": "Ćwiczyć\r",
+		"main": "Halówki"
+	},
+	{
+		"1": "Koc",
+		"2": "Głowa",
+		"3": "Wełna",
+		"4": "Rękaw",
+		"5": "Indianie",
+		"6": "Płaszcz\r",
+		"main": "Ponczo"
+	},
+	{
+		"1": "Choroba",
+		"2": "Chłopak",
+		"3": "Miłość",
+		"4": "Dziewczyna",
+		"5": "Uczucie",
+		"6": "Zachowanie\r",
+		"main": "Zazdrość"
+	},
+	{
+		"1": "Thomas Edison",
+		"2": "Adapter",
+		"3": "Muzyka",
+		"4": "Analogowa",
+		"5": "Gramofon",
+		"6": "Dźwięk\r",
+		"main": "Płyta winylowa"
+	},
+	{
+		"1": "Muzyka",
+		"2": "Fan",
+		"3": "Koncert",
+		"4": "Płyta",
+		"5": "Sluch",
+		"6": "Hobby\r",
+		"main": "Meloman"
+	},
+	{
+		"1": "Płomień",
+		"2": "Pirotechnika",
+		"3": "Fajerwerki",
+		"4": "Pokaz",
+		"5": "Sylwester",
+		"6": "Petardy\r",
+		"main": "Sztuczne Ognie"
+	},
+	{
+		"1": "Pacynka",
+		"2": "Sterować",
+		"3": "Lalka",
+		"4": "Ręce",
+		"5": "Teatr",
+		"6": "Sznurki\r",
+		"main": "Marionetka"
+	},
+	{
+		"1": "Seplenienie",
+		"2": "Logopeda",
+		"3": "Jąkanie",
+		"4": "Problem",
+		"5": "Zaleta",
+		"6": "Mowa\r",
+		"main": "Wada wymowy"
+	},
+	{
+		"1": "Przyrząd",
+		"2": "Podpórka",
+		"3": "Kamera",
+		"4": "Trójnóg",
+		"5": "Fotograf",
+		"6": "Przedmiot\r",
+		"main": "Statyw"
+	},
+	{
+		"1": "Neuron",
+		"2": "Pobudzony",
+		"3": "Układ",
+		"4": "Stan",
+		"5": "Psycholog",
+		"6": "Złość\r",
+		"main": "Nerwowy"
+	},
+	{
+		"1": "Ujarzmić",
+		"2": "Poskromić",
+		"3": "Uspokoić",
+		"4": "Opanować",
+		"5": "Koń",
+		"6": "Dzikie zwierzę\r",
+		"main": "Okiełznać"
+	},
+	{
+		"1": "Koloseum",
+		"2": "Pizza",
+		"3": "Stolica",
+		"4": "Neron",
+		"5": "Włochy",
+		"6": "Miasto\r",
+		"main": "Rzym"
+	},
+	{
+		"1": "Żołnierz",
+		"2": "Szosa",
+		"3": "Walczyć",
+		"4": "Wojenny",
+		"5": "Stary",
+		"6": "Mężczyzna\r",
+		"main": "Weteran"
+	},
+	{
+		"1": "Podryw",
+		"2": "Rozmawiać",
+		"3": "Uwodzić",
+		"4": "Karty",
+		"5": "Romans",
+		"6": "Zdrada\r",
+		"main": "Flirt"
+	},
+	{
+		"1": "Gonić",
+		"2": "Lekarz",
+		"3": "Biegać",
+		"4": "Dotykać",
+		"5": "Zabawa",
+		"6": "Gra\r",
+		"main": "Berek"
+	},
+	{
+		"1": "Plony",
+		"2": "Mąka",
+		"3": "Zboże",
+		"4": "Pieczywo",
+		"5": "Żyto",
+		"6": "Pożywienie\r",
+		"main": "Pszenica"
+	},
+	{
+		"1": "Szpilki",
+		"2": "Wysoki",
+		"3": "Obuwie",
+		"4": "Randka",
+		"5": "Buty",
+		"6": "Kobieta\r",
+		"main": "Obcasy"
+	},
+	{
+		"1": "40 rozbójników",
+		"2": "Tysiąc",
+		"3": "Sezam",
+		"4": "Bajka",
+		"5": "Arab",
+		"6": "Opowiadanie\r",
+		"main": "Alibaba"
+	},
+	{
+		"1": "Czapka",
+		"2": "Ręce",
+		"3": "Zima",
+		"4": "Szalik",
+		"5": "Palce",
+		"6": "odzież\r",
+		"main": "Rękawiczki"
+	},
+	{
+		"1": "Żydzi",
+		"2": "Holokaust",
+		"3": "Ariel Szaron",
+		"4": "Gwiazda Dawida",
+		"5": "Państwo",
+		"6": "Kraj\r",
+		"main": "Izrael"
+	},
+	{
+		"1": "Socjal",
+		"2": "Praca",
+		"3": "Wypadek",
+		"4": "Zus",
+		"5": "Emerytura",
+		"6": "Wypłata\r",
+		"main": "Renta"
+	},
+	{
+		"1": "Czajnik",
+		"2": "Woda",
+		"3": "Oparzyć",
+		"4": "Gorący",
+		"5": "Herbata",
+		"6": "ciecz\r",
+		"main": "Wrzątek"
+	},
+	{
+		"1": "Szkoła",
+		"2": "Przedmiot",
+		"3": "Roślina",
+		"4": "Zwierzęta",
+		"5": "Botanika",
+		"6": "Przyroda\r",
+		"main": "Biologia"
+	},
+	{
+		"1": "Basen",
+		"2": "Bikini",
+		"3": "Plaża",
+		"4": "Kostium",
+		"5": "Dziewczyny",
+		"6": "Woda\r",
+		"main": "Strój kąpielowy"
+	},
+	{
+		"1": "Ptak",
+		"2": "Drzewo",
+		"3": "Stukać",
+		"4": "Lekarz",
+		"5": "Big Brother",
+		"6": "Dziupla\r",
+		"main": "Dzięciol"
+	},
+	{
+		"1": "Etat",
+		"2": "Zajęcie",
+		"3": "Wynagrodzenie",
+		"4": "Pensja",
+		"5": "Chodzić",
+		"6": "Robota\r",
+		"main": "Praca"
+	},
+	{
+		"1": "Odkładać",
+		"2": "Konto",
+		"3": "Zbierać",
+		"4": "Pieniądze",
+		"5": "Skarbonka",
+		"6": "gotówka\r",
+		"main": "Oszczędności"
+	},
+	{
+		"1": "napój",
+		"2": "alkohol",
+		"3": "procent",
+		"4": "wysokoprocentowy",
+		"5": "wesele",
+		"6": "czysta\r",
+		"main": "Dobra Wódka"
+	},
+	{
+		"1": "napój",
+		"2": "alkohol",
+		"3": "procent",
+		"4": "niskoprocentowy",
+		"5": "mecz",
+		"6": "pub\r",
+		"main": "Smaczne Piwo"
+	},
+	{
+		"1": "napój",
+		"2": "alkohol",
+		"3": "procent",
+		"4": "wysokoprocentowy",
+		"5": "drink",
+		"6": "lód\r",
+		"main": "Whisky z colą"
+	},
+	{
+		"1": "kobieta",
+		"2": "partnerka",
+		"3": "właściciel",
+		"4": "zarząd",
+		"5": "dziewczyna",
+		"6": "firma\r",
+		"main": "Żona prezesa"
+	},
+	{
+		"1": "stanowisko",
+		"2": "kierownik",
+		"3": "sprzedaż",
+		"4": "zysk",
+		"5": "analiza",
+		"6": "marża\r",
+		"main": "Dyrektor handlowy"
+	},
+	{
+		"1": "stanowisko",
+		"2": "kierownik",
+		"3": "produkt",
+		"4": "problem",
+		"5": "projekt",
+		"6": null,
+		"main": "Dyrektor techniczny"
+	},
+	{
+		"1": "dokumenty",
+		"2": "rozliczenie",
+		"3": "pieniądze",
+		"4": "pit",
+		"5": "cit",
+		"6": "vat\r",
+		"main": "Księgowa"
+	},
+	{
+		"1": "stanowisko",
+		"2": "właściciel",
+		"3": "zarząd",
+		"4": "firma",
+		"5": "pieniądze",
+		"6": "szef\r",
+		"main": "Prezes"
+	},
+	{
+		"1": "stanowisko",
+		"2": "jeździ",
+		"3": "sprzedaż",
+		"4": "samochód",
+		"5": "prezentacja",
+		"6": "klient\r",
+		"main": "Przedstawciel handlowy"
+	},
+	{
+		"1": "dwa",
+		"2": "osiem",
+		"3": "-aście",
+		"4": 1,
+		"5": 5,
+		"6": "cyfra\r",
+		"main": "cztery"
+	},
+	{
+		"1": "firma",
+		"2": "automatyka",
+		"3": "branża",
+		"4": "pracować",
+		"5": "pracownik",
+		"6": "niemcy\r",
+		"main": "TURCK"
+	},
+	{
+		"1": "sensor",
+		"2": "detektor",
+		"3": "czytnik",
+		"4": "indukcyjny",
+		"5": "pojemnościowy",
+		"6": "magnetyczny\r",
+		"main": "Czujnik"
+	},
+	{
+		"1": "czujnik",
+		"2": "Bi4U",
+		"3": "M12",
+		"4": "Ap6X",
+		"5": "indukcyjny",
+		"6": "urpox\r",
+		"main": "Bi4U-M12-AP6X"
+	},
+	{
+		"1": "PSU67",
+		"2": "IM82-24 ",
+		"3": "szyna DIN",
+		"4": "IP20",
+		"5": "IP67",
+		"6": "IM82-24-2.5\r",
+		"main": "Zasilacz"
+	},
+	{
+		"1": "system",
+		"2": "Weryfikacji pobrania",
+		"3": "magazyn",
+		"4": "montaż",
+		"5": "ochrona IP67",
+		"6": "IP20\r",
+		"main": "pick-to-light"
+	},
+	{
+		"1": "protokół",
+		"2": "przemysł",
+		"3": "urządzenia I/O",
+		"4": "PROFIBUS",
+		"5": "dane",
+		"6": "PLC\r",
+		"main": "PROFINET "
+	},
+	{
+		"1": "komponent",
+		"2": "sieciowy",
+		"3": "automatyka",
+		"4": "TURCK",
+		"5": "technologia",
+		"6": "branża\r",
+		"main": "sieć przemysłowa"
+	},
+	{
+		"1": "oprogramowanie",
+		"2": "protokół",
+		"3": "PIB ",
+		"4": "RFID",
+		"5": "DPV1",
+		"6": "pobierać\r",
+		"main": "Profibus"
+	},
+	{
+		"1": "system",
+		"2": "komunikacja",
+		"3": "link",
+		"4": "point-to-point",
+		"5": "dane",
+		"6": "przesyłanie\r",
+		"main": "IO-Link"
+	},
+	{
+		"1": "czujnik",
+		"2": "nakrętki",
+		"3": "produkcja",
+		"4": "motoryzacja",
+		"5": "spawać",
+		"6": "aplikacja\r",
+		"main": "NIMFE"
+	},
+	{
+		"1": "technoogia",
+		"2": "Radio-frequency identification",
+		"3": "fale radiowe",
+		"4": "identyfikacja",
+		"5": "czytnik",
+		"6": "technika\r",
+		"main": "RFID"
+	},
+	{
+		"1": "IP67",
+		"2": "Profinet",
+		"3": "Ethernet",
+		"4": "roboty",
+		"5": "narzędzia",
+		"6": "firmware\r",
+		"main": "moduły blokowe I/O"
+	},
+	{
+		"1": "system",
+		"2": "Just In Sequence",
+		"3": "UHF",
+		"4": "identyfikacja",
+		"5": "near field",
+		"6": "RFID \r",
+		"main": "JIS"
+	},
+	{
+		"1": "czujnik",
+		"2": "FAW Volkswagen",
+		"3": "Chiny",
+		"4": "motoryzacja",
+		"5": "samochód",
+		"6": "produkcja\r",
+		"main": "uprox+"
+	},
+	{
+		"1": "TURCK",
+		"2": "branża",
+		"3": "dziedzina",
+		"4": "sterowanie",
+		"5": "procesy",
+		"6": "technologia\r",
+		"main": "automatyka"
+	},
+	{
+		"1": "urządzenie",
+		"2": "bezpieczeństwo",
+		"3": "zasięg",
+		"4": "seria",
+		"5": "ochrona",
+		"6": "strefy\r",
+		"main": "Kurtyny serii SGS"
+	},
+	{
+		"1": "wykrywać",
+		"2": "czujnik",
+		"3": "pole elektromagnetyczne",
+		"4": "metal",
+		"5": "obiekt",
+		"6": "bezkontaktowy\r",
+		"main": "czujnik indukcyjny"
+	},
+	{
+		"1": "czujnik",
+		"2": "wiązka świetlna",
+		"3": "czerwony",
+		"4": "wykrywać",
+		"5": "obiekt",
+		"6": "aplikacja\r",
+		"main": "Czujniki fotoelektryczne"
+	},
+	{
+		"1": "czujnik",
+		"2": "bezkontaktowy",
+		"3": "kontrola",
+		"4": "płyny",
+		"5": "materiały",
+		"6": "wycieki\r",
+		"main": "Czujniki pojemnościowe"
+	},
+	{
+		"1": "czujnik",
+		"2": "pole magetyczne",
+		"3": "bezdotykowe",
+		"4": "tłoki",
+		"5": "cylindry",
+		"6": "wykrywać\r",
+		"main": "Czujniki magnetyczne"
+	},
+	{
+		"1": "czujnk",
+		"2": "fale ultradźwiękowe",
+		"3": "wykrywać",
+		"4": "bezkontaktowy",
+		"5": "metal",
+		"6": "płyn\r",
+		"main": "Czujniki ultradźwiękowe"
+	},
+	{
+		"1": "czujnik",
+		"2": "QT50 ",
+		"3": "Q120 ",
+		"4": "FMCW ",
+		"5": "samochód",
+		"6": "pociąg\r",
+		"main": "Czujnik radarowy"
+	},
+	{
+		"1": "czujnik",
+		"2": "przemieszczenie",
+		"3": "bezkontaktowy",
+		"4": "RLC",
+		"5": "linka",
+		"6": "pomiar\r",
+		"main": "Czujniki indukcyjne przemieszczeń liniowych "
+	},
+	{
+		"1": "wersja",
+		"2": "czujnik",
+		"3": "radarowy",
+		"4": "FMCW ",
+		"5": "Frequency Modulated Continuous Wave",
+		"6": "wykrywanie\r",
+		"main": "QT50"
+	},
+	{
+		"1": "wersja",
+		"2": "czujnik",
+		"3": "radarowy",
+		"4": "FMCW ",
+		"5": "Frequency Modulated Continuous Wave",
+		"6": "wykrywanie\r",
+		"main": "Q120 "
+	},
+	{
+		"1": "Ri360P-QR24 ",
+		"2": "enkoder",
+		"3": "koder",
+		"4": "rejestrować",
+		"5": "pozycjonowanie",
+		"6": "wytrzymałość\r",
+		"main": "enkoder"
+	},
+	{
+		"1": "enkoder",
+		"2": "bezkontaktowy",
+		"3": "rejestrować",
+		"4": "koder",
+		"5": "pozycjonowanie",
+		"6": "wytrzymałość\r",
+		"main": "Ri360P-QR24"
+	},
+	{
+		"1": "enkoder",
+		"2": "bezkontaktowy",
+		"3": "rejestrować",
+		"4": "koder",
+		"5": "pozycjonowanie",
+		"6": "wytrzymałość\r",
+		"main": "Ri360P-QR20 "
+	},
+	{
+		"1": "Q20L60 ",
+		"2": "Q42 ",
+		"3": "pochylenie",
+		"4": "wykrywać",
+		"5": "wstrząsy",
+		"6": "360°\r",
+		"main": "inklinometry"
+	},
+	{
+		"1": "czujnik",
+		"2": "ciśnienie",
+		"3": "PS",
+		"4": "IO-Link",
+		"5": "PT",
+		"6": "wyświetlacz\r",
+		"main": "czujniki ciśnienia"
+	},
+	{
+		"1": "czujnik",
+		"2": "seria",
+		"3": "ciśnienie",
+		"4": "wyświetlacz",
+		"5": "wyjścia",
+		"6": "warianty\r",
+		"main": "PS"
+	},
+	{
+		"1": "czujnik",
+		"2": "seria",
+		"3": "ciśnienie",
+		"4": "wyświetlacz",
+		"5": "wyjścia",
+		"6": "analogowy\r",
+		"main": "PT"
+	},
+	{
+		"1": "czujnik",
+		"2": "TS",
+		"3": "TTM/TTMS",
+		"4": "sonda",
+		"5": "podłączyć",
+		"6": "podczerwień\r",
+		"main": "Czujniki temperatury"
+	},
+	{
+		"1": "czujnik",
+		"2": "przepływ",
+		"3": "temperatura",
+		"4": "prędkość",
+		"5": "pomiar",
+		"6": "płyny\r",
+		"main": "Przepływomierze"
+	},
+	{
+		"1": "HF ",
+		"2": "UHF",
+		"3": "pojemność",
+		"4": "odporność",
+		"5": "glowica",
+		"6": "temperatura\r",
+		"main": "Nośnik danych HF/UHF"
+	},
+	{
+		"1": "HF ",
+		"2": "UHF",
+		"3": "ISO",
+		"4": "integracja",
+		"5": "odczytywać",
+		"6": "środowisko\r",
+		"main": "Głowica zapisująco-czytająca HF/UHF"
+	},
+	{
+		"1": "HF ",
+		"2": "UHF",
+		"3": "RFID",
+		"4": "BL20 ",
+		"5": "zapis",
+		"6": "odczyt\r",
+		"main": "Interfejs HF/UHF"
+	},
+	{
+		"1": "seria",
+		"2": "I/O",
+		"3": "stacje",
+		"4": "zdalne",
+		"5": "moduł",
+		"6": "środowisko\r",
+		"main": "BL20"
+	},
+	{
+		"1": "HF ",
+		"2": "UHF",
+		"3": "nośnik",
+		"4": "WLAN",
+		"5": "odczytywanie",
+		"6": "zapisywanie\r",
+		"main": "Programator ręczny"
+	},
+	{
+		"1": "kreskowy",
+		"2": "1D i 2D",
+		"3": "RS232 ",
+		"4": "Ethernet",
+		"5": "oświetlenie",
+		"6": "obiektyw\r",
+		"main": "Czytnik kodów"
+	},
+	{
+		"1": "złącza",
+		"2": "kable",
+		"3": "IEC 61076-2-101",
+		"4": "M8 x 1/Ø 8 mm",
+		"5": "systemy",
+		"6": "ochrona\r",
+		"main": "Przewody"
+	},
+	{
+		"1": "czujnik",
+		"2": "łączyć",
+		"3": "sygnał",
+		"4": "rozdzielacz",
+		"5": "M8 x 1, M12 x 1 i 7/8",
+		"6": "M12 x 1\r",
+		"main": "koncentratory"
+	},
+	{
+		"1": "zawory",
+		"2": "złącza",
+		"3": "instalacja",
+		"4": "aplikacja",
+		"5": "przewód",
+		"6": "M8 x 1/Ø 8 mm\r",
+		"main": "Złącza rozbieralne"
+	},
+	{
+		"1": "NIC",
+		"2": "sprzęgło",
+		"3": "RFID",
+		"4": "I/O",
+		"5": "TBIL",
+		"6": "workpiece carrier\r",
+		"main": "Łącznik indukcyjny"
+	},
+	{
+		"1": "wyświetlacz",
+		"2": "Pick-to-Light",
+		"3": "dioda",
+		"4": "oświetlenie",
+		"5": "światło",
+		"6": "źródło\r",
+		"main": "LED"
+	},
+	{
+		"1": "zasilacz",
+		"2": "zabudowa",
+		"3": "seria IM82-24",
+		"4": "szyna DIN",
+		"5": "odporność",
+		"6": "temperatura\r",
+		"main": "IP20"
+	},
+	{
+		"1": "zasilacz",
+		"2": "niezależny",
+		"3": "seria PSU67 ",
+		"4": "bezpośredni",
+		"5": "urządzenie",
+		"6": "ochrona\r",
+		"main": "IP67"
+	},
+	{
+		"1": "Turck",
+		"2": "sprzęt",
+		"3": "chmura",
+		"4": "oprogramowanie",
+		"5": "automatyka",
+		"6": "EDGE \r",
+		"main": "Turck Cloud Solutions"
+	},
+	{
+		"1": "złącza",
+		"2": "anteny",
+		"3": "montaż",
+		"4": "kontrukcja",
+		"5": "rozwiązania",
+		"6": "usluga\r",
+		"main": "Cloud Gateway "
+	},
+	{
+		"1": "system",
+		"2": "czujnik",
+		"3": "przemysł 4.0",
+		"4": "bezprzewodowy",
+		"5": "I/O",
+		"6": "łącze\r",
+		"main": "Wireless Sensor Networks"
+	},
+	{
+		"1": "Inklinometr",
+		"2": "czujnik",
+		"3": "nachylenie",
+		"4": "wyjścia",
+		"5": "analogowy",
+		"6": "IP68\r",
+		"main": "B1N360V-Q20L60-2LU3-H1151"
+	},
+	{
+		"1": "Wibracje",
+		"2": "maszyny",
+		"3": "przestoje",
+		"4": "zabezpieczanie",
+		"5": "szkolenie",
+		"6": "Centrum Szkoleniowe Turck\r",
+		"main": "Wibrodiagnostyka"
+	},
+	{
+		"1": "protokół",
+		"2": "model ISO/OSI",
+		"3": "Ethernet",
+		"4": "Multiprotocol",
+		"5": "środowisko PACTware",
+		"6": "szkolenie\r",
+		"main": "sieci komunikacyjne"
+	},
+	{
+		"1": "środowisko",
+		"2": "programowanie",
+		"3": "IO-Link",
+		"4": "RFID",
+		"5": "task configuration",
+		"6": "warsztaty\r",
+		"main": "CoDeSys v3.5"
+	},
+	{
+		"1": "Wireless",
+		"2": "sieć",
+		"3": "bezprzewodowy",
+		"4": "Internet",
+		"5": "dostęp",
+		"6": "strony www\r",
+		"main": "WIFI"
+	},
+	{
+		"1": "moduł",
+		"2": "kompaktowy",
+		"3": "FLC",
+		"4": "Field Logic Controller",
+		"5": "Multiprotocol",
+		"6": "środowisko\r",
+		"main": "ARGEE "
+	},
+	{
+		"1": "TURCK",
+		"2": "szkolenia",
+		"3": "konferencje",
+		"4": "warsztaty",
+		"5": "RFID",
+		"6": "uczelnie\r",
+		"main": "centrum szkoleniowe"
+	},
+	{
+		"1": "Zentralverband Elektrotechnik- und Elektronikindustrie eV",
+		"2": "Niemcy",
+		"3": "Stowarzyszenie",
+		"4": "członek",
+		"5": "środowisko",
+		"6": "biznes\r",
+		"main": "ZVEI"
+	},
+	{
+		"1": "współzałożyciel",
+		"2": "2015r.",
+		"3": 91,
+		"4": "Hans Turck GmbH & Co. KG",
+		"5": "Mulheim ",
+		"6": "genealogia\r",
+		"main": "HANS TURCK"
+	},
+	{
+		"1": "współzałożyciel",
+		"2": "2015r.",
+		"3": 82,
+		"4": "Grupa Turck",
+		"5": "Halver ",
+		"6": "Order Zasługi Pierwszej Klasy Republiki Federalnej\r",
+		"main": "WERNER TURCK DIES"
+	},
+	{
+		"1": "oprogramowanie",
+		"2": "sygnalizacja",
+		"3": "RGB",
+		"4": "wskaźniki świetlne",
+		"5": "LED",
+		"6": "S22 Pro Touch\r",
+		"main": "PRO EDITOR"
+	},
+	{
+		"1": "moduł",
+		"2": "RS232",
+		"3": "Ethernet",
+		"4": "włączać",
+		"5": "TBEN-S",
+		"6": "programowanie\r",
+		"main": "TBEN-S-2COM"
+	},
+	{
+		"1": "Banner Engineering",
+		"2": "iVu",
+		"3": "czujnik",
+		"4": "Vision Manager",
+		"5": "IP",
+		"6": "adres MAC\r",
+		"main": "kamera VE"
+	},
+	{
+		"1": "RFID",
+		"2": "Gefasoft",
+		"3": "technologia",
+		"4": "półprzewodniki",
+		"5": "Gefasoft Automatisierung und Software GmbH ",
+		"6": "system\r",
+		"main": "Moduł BL ident"
+	},
+	{
+		"1": "branża",
+		"2": "automatyka",
+		"3": "technologia",
+		"4": "RFID",
+		"5": "Moduł BL ident",
+		"6": "montaż\r",
+		"main": "półprzewodniki"
+	},
+	{
+		"1": "seria",
+		"2": "czujnik",
+		"3": "walcarki",
+		"4": "grubość",
+		"5": "ciasto",
+		"6": "ochrona\r",
+		"main": "Li "
+	},
+	{
+		"1": "RFID",
+		"2": "pojemniki",
+		"3": "żywność",
+		"4": "wykrywać",
+		"5": "produkcja",
+		"6": "wydajność\r",
+		"main": "BL ident "
+	},
+	{
+		"1": "czujnik",
+		"2": "wtyczka",
+		"3": "instalacja",
+		"4": "zawory",
+		"5": "terminal",
+		"6": "szczelność\r",
+		"main": "uprox+ WD "
+	},
+	{
+		"1": "czujnik",
+		"2": "wizyjny",
+		"3": "produkcja",
+		"4": "kontrola",
+		"5": "urządzenia",
+		"6": "Banner Engineering\r",
+		"main": "iVu"
+	},
+	{
+		"1": "przetwornik",
+		"2": "szyny DIN",
+		"3": "temperaturowy",
+		"4": "pomiar",
+		"5": "oprogramowanie",
+		"6": "Holandia\r",
+		"main": "IM34 "
+	},
+	{
+		"1": "czujnik",
+		"2": "ATEX",
+		"3": "certyfikat",
+		"4": "indukcyjny",
+		"5": "SIL 2",
+		"6": "IEC 61508\r",
+		"main": "NAMUR "
+	},
+	{
+		"1": "przejściówki",
+		"2": "zatyczki",
+		"3": "przelotki",
+		"4": "kable",
+		"5": "usługi",
+		"6": "produkty\r",
+		"main": "Akcesoria"
+	},
+	{
+		"1": "naciskać",
+		"2": "dotykać",
+		"3": "sterownik",
+		"4": "pick-to-light",
+		"5": "sygnał",
+		"6": "prezentacja\r",
+		"main": "Przycisk dotykowy"
+	},
+	{
+		"1": "produkt",
+		"2": "oprogramowanie",
+		"3": "komponenty",
+		"4": "produkt",
+		"5": "wersja",
+		"6": "Internet\r",
+		"main": "Turck Software Manager"
+	},
+	{
+		"1": "oprogramowanie",
+		"2": "czujnik",
+		"3": "temperatura",
+		"4": "diagnostyka",
+		"5": "TS z IO‐Link",
+		"6": "dokumentacja\r",
+		"main": "IODD IO-Link EZ-Array"
+	},
+	{
+		"1": "produkt",
+		"2": "skaner laserowy",
+		"3": "oprogramowanie",
+		"4": "Internet",
+		"5": "Pobrać",
+		"6": "Internet\r",
+		"main": "AG4"
+	},
+	{
+		"1": "system",
+		"2": "DPC",
+		"3": "oprogramowanie",
+		"4": "Internet",
+		"5": "wersja",
+		"6": "Pobrać\r",
+		"main": "DTM Diagnostic-Power-Conditioner V1.30"
+	},
+	{
+		"1": "DTM",
+		"2": "IO-Link",
+		"3": "urządzenia",
+		"4": "oprogramowanie",
+		"5": "przegląd",
+		"6": "pobierać\r",
+		"main": "DTM IO-Link Devices"
+	},
+	{
+		"1": "TS z IO‐Link",
+		"2": "sensor",
+		"3": "oprogramowanie",
+		"4": "diagnostyka",
+		"5": "strona www",
+		"6": "TURCK\r",
+		"main": "IODD IO-Link DF-G1"
+	},
+	{
+		"1": "DTM ",
+		"2": "oprogramowanie",
+		"3": "systemy",
+		"4": "FGEN ",
+		"5": "narzędzie",
+		"6": "projektować\r",
+		"main": "Projektierungssoftware"
+	},
+	{
+		"1": "symbole",
+		"2": "QViS",
+		"3": "HMI ",
+		"4": "firma",
+		"5": "materiały",
+		"6": "pobierać\r",
+		"main": "QViS Symbolbibliothek"
+	},
+	{
+		"1": "produkt",
+		"2": "oprogramowanie",
+		"3": "DTM ",
+		"4": "PROFIBUS ",
+		"5": "Ethernet",
+		"6": "strony www\r",
+		"main": "DTM PB-XEPI"
+	},
+	{
+		"1": "produkt",
+		"2": "wizualizacja",
+		"3": "oprogramowanie",
+		"4": "interfejs",
+		"5": "ZX HMI",
+		"6": "bezpłatny\r",
+		"main": "TX VisuPro"
+	},
+	{
+		"1": "certyfikat",
+		"2": "dokument",
+		"3": "Niemcy",
+		"4": "potwierdzenie",
+		"5": "zatwierdzony",
+		"6": "dopuszczony\r",
+		"main": "ATEX "
+	},
+	{
+		"1": "certyfikat",
+		"2": "czujnik",
+		"3": "pojazdy",
+		"4": "Niemcy",
+		"5": "zatwierdzony",
+		"6": "dokumentacja\r",
+		"main": "E1"
+	},
+	{
+		"1": "TURCK",
+		"2": "Karolinka",
+		"3": "Opole",
+		"4": "budynek",
+		"5": "biuro",
+		"6": "wrocławska\r",
+		"main": "Siedziba firmy"
+	},
+	{
+		"1": "światło",
+		"2": "żarówka",
+		"3": "lampa",
+		"4": "energooszczędny",
+		"5": "wytrzymałość",
+		"6": "PLC \r",
+		"main": "LED"
+	},
+	{
+		"1": "oświetlenie",
+		"2": "Industrial LED Task Lighting",
+		"3": "IP67",
+		"4": "produkt",
+		"5": "liniowe",
+		"6": "robocze\r",
+		"main": "WLS15CDW0220DSQP"
+	},
+	{
+		"1": "enkoder",
+		"2": "seria",
+		"3": "CANopen",
+		"4": "bezkontaktowy",
+		"5": "przemysł",
+		"6": "czujnik\r",
+		"main": "QR24 "
+	},
+	{
+		"1": "głowica",
+		"2": "najmniejsza",
+		"3": "odczytywać",
+		"4": "zapisywać",
+		"5": "ograniczony",
+		"6": "R10\r",
+		"main": "TB-Q08"
+	},
+	{
+		"1": "czujnik",
+		"2": "seria",
+		"3": "Hanower",
+		"4": "targi",
+		"5": "generacja",
+		"6": "trzy\r",
+		"main": "uprox3 "
+	},
+	{
+		"1": "interfejs",
+		"2": "dwanaście",
+		"3": "separator",
+		"4": "Ex ",
+		"5": "IMX12-DI",
+		"6": "generacja\r",
+		"main": "IMX12 "
+	},
+	{
+		"1": "IMX12-CCM",
+		"2": "szafy",
+		"3": "sterować",
+		"4": "monitorować",
+		"5": "parametry",
+		"6": "środowisko\r",
+		"main": "system monitoringu"
+	},
+	{
+		"1": "ekoder",
+		"2": "czujnik",
+		"3": "sprzedajemy",
+		"4": "zakup",
+		"5": "oferta",
+		"6": "TURCK\r",
+		"main": "Produkty"
+	},
+	{
+		"1": "targi",
+		"2": "Warszawa",
+		"3": "TURCK",
+		"4": "automatyka",
+		"5": "pomiary",
+		"6": "forum\r",
+		"main": "AUTOMATICON"
+	},
+	{
+		"1": "produkcja",
+		"2": "czynność",
+		"3": "technologia",
+		"4": "proces",
+		"5": "zbiór",
+		"6": "produkty\r",
+		"main": "proces produkcyjny"
+	},
+	{
+		"1": "sterownik",
+		"2": "IP67 ",
+		"3": "automatyka",
+		"4": "CODESYS 3 ",
+		"5": "kontrola",
+		"6": "schemat\r",
+		"main": "TBEN-PLC"
+	},
+	{
+		"1": "urządzenie",
+		"2": "IP20",
+		"3": "szafa sterownicza",
+		"4": "Turck Cloud Solutions",
+		"5": "chmura",
+		"6": "brama\r",
+		"main": "EDGE "
+	},
+	{
+		"1": "produkt",
+		"2": "czujnik",
+		"3": "Męskie złącze M12",
+		"4": "system",
+		"5": "skaner",
+		"6": "laser",
+		"main": "LTF12KC2LDQ"
+	}
+]
